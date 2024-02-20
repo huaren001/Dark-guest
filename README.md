@@ -11,5 +11,8 @@
 
 Dark guest桌面端下载连接：https://wwm.lanzn.com/ixtkv1otmnrc
 
+>问：为什么不用百度网盘
+
+>答：限速贼慢
 
 原创链接：https://github.com/huaren001/Dark-guest
