@@ -113,7 +113,7 @@ class Ui_MainWindow(object):
                 self.progressBar.setValue(sent)
                 time.sleep((1000 - speed) / 2000)           #根据攻击速度设置每次发送之间的时间间隔
     def open_filr(self):
-        QMessageBox.information(None, "关于我们", "没有团队一个人做的🤨\n初中生做的没有太多时间维护，代码已开源，自取即可🙃\n作者：三伏云逸/7域  \n程序中的bug问题我暂时还没发现，应该是没有太大问题🤔\nB站账号：3546619068811636  抖音：22236259812  \n想体验更多实用工具关注UP主点点赞吧🥲")
+        QMessageBox.information(None, "关于我们", "e")
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()
